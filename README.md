@@ -4,8 +4,13 @@
   <img src="images/HiCAD-logo.png" alt="HiCAD logo" width="240">
 </p>
 <p align="center">
-        📄<a href="https://icml.cc/virtual/2026/poster/66611">Paper</a> &nbsp ｜ 💻<a href="https://zqwlearning.github.io/HiCAD">Project</a> &nbsp ｜ &nbsp 📊<a href="https://drive.google.com/file/d/1vkaGsnvEKfc_sZF5qzL0LBRNErTgIV8u/view?usp=sharing">Dataset</a> ｜ &nbsp 🖼️<a href="https://icml.cc/media/PosterPDFs/ICML%202026/66611.png?t=1783269649.354715">Poster</a>
+  📄 <a href="https://icml.cc/virtual/2026/poster/66611">Paper</a> &nbsp;｜&nbsp;
+  💻 <a href="https://zqwlearning.github.io/HiCAD">Project</a> &nbsp;｜&nbsp;
+  📊 <a href="https://drive.google.com/file/d/1vkaGsnvEKfc_sZF5qzL0LBRNErTgIV8u/view?usp=sharing">Dataset</a> &nbsp;｜&nbsp;
+  🤗 <a href="https://huggingface.co/zhangqingwang/HiCAD_Model">Model</a> &nbsp;｜&nbsp;
+  🖼️ <a href="https://icml.cc/media/PosterPDFs/ICML%202026/66611.png?t=1783269649.354715">Poster</a>
 </p>
+
 
 <div style="text-align: center;">
     <p style="font-weight: bold; font-size: 1.2em;">
