@@ -1,0 +1,7 @@
+# GPU inference and Qwen3-VL description generation.
+# Install on Linux with a CUDA-compatible PyTorch/vLLM build.
+vllm>=0.11.0
+transformers>=4.57.0
+qwen-vl-utils>=0.0.14
+Pillow>=10.0
+numpy>=1.24
